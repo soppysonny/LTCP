@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.1)
+  - CleanJSON (1.0.8)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CleanJSON
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CleanJSON
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  CleanJSON: 7cc2fbb8f3face17e80a25a2266199ad31002bfc
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 033816bf1a1ef430a312746d57d94a43f7622f45
+
+COCOAPODS: 1.10.1

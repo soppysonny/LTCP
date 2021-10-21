@@ -1,0 +1,6 @@
+module Pods_SwifyLiteCoinPool {
+  umbrella header "Pods-SwifyLiteCoinPool-umbrella.h"
+
+  export *
+  module * { export * }
+}

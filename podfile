@@ -1,0 +1,5 @@
+target 'SwifyLiteCoinPool' do
+pod 'Alamofire'
+pod 'CleanJSON'
+pod 'SnapKit'
+end
